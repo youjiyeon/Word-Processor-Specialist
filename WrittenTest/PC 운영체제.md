@@ -72,3 +72,62 @@
 - 윈도우 + R > shell:startup > 시작 프로그램 폴더에 프로그램 등록
 
 ---
+
+# 3. Windows 10 설정
+
+설정
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/bb2b89ac-29f3-4232-ac41-e10f46d1e9a2)
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/4672a1b6-a5bb-4d1d-a891-8835c78d5619)
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/40ee4746-0ce3-42f2-a292-1d749b3e7642)
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/bfc7d829-ef14-4f7d-8c5e-7a191f2c49cc)
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/f53cfe97-e587-4429-9bf5-c93b8bcc3b8c)
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/1cfa271c-bc37-4f7b-b009-84619a04a934)
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/47fd07c1-6cfe-405a-9749-c3bee3e67dc7)
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/3360efee-c362-4eec-91b1-3c58c332511a)
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/65814e13-0669-4072-be84-670ebfd5b536)
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/94c359fa-775c-4db6-82f6-11c2b98d516b)
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/ff95986b-194e-429a-82f9-529075277865)
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/3e8e358e-e414-4c22-8364-34f62f4cf736)
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/7eea3456-fb32-4b7b-914b-98f0bcd0ef7e)
+
+설정 접속 방법
+
+- 윈도우 + i
+- 윈도우 + X + N
+- 시작 단추 오른쪽 > 설정
+- 윈도우 + R > ms-settings:
+
+앱 추가/제거
+
+- 앱 설치: 바로 설치, 나중에 설치
+
+하드웨어 추가/제거
+
+- 하드웨어 추가: 플러그 앤 플레이가 지원되는 하드웨어 설치 시 자동으로 인식하고 설치됨
+    - PnP지원이 안될 때 실행창에 hdwwiz: 하드웨어 추가 마법사 실행
+
+인쇄
+
+- 인쇄 대기 중인 문서는 용지 방향, 용지 공급 및 인쇄 매수를 설정할 수 없다.
+- 네트워크 프린터: 다른 컴퓨터에 연결된 프린터(공유 가능)
+- 기본 프린터: 1개만 지정 가능
+    - 스풀(병행처리): 컴퓨터 처리 효율이 높아지고, 속도가 빨라지지 않음
+- 인쇄 관리자
+    - 인쇄 명령 시 작업표시줄의 알림 영역에서 프린터 모양의 아이콘이 표시되며 인쇄가 완료되면 아이콘은 사라진다.
+    - 인쇄 켰다가 다시 재 인쇄할 수 있음
+    - 프린터 공유: 프린터 속성>’공유’탭에서 설정
+
+---

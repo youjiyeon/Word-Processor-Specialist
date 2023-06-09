@@ -137,8 +137,17 @@
 Windows 10 보조 프로그램 및 유니버설 앱
 
 ![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/b8474f25-f60e-4355-8143-57ccd138e413)
-
 ![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/e4e9a21f-4130-4054-803d-32d7137dfccb)
-
 ![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/c987163c-4c46-4ccf-9c89-857bdf0c952a)
 
+---
+
+# 5. Windows 관리
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/4b3e3524-1285-48e5-a2a5-fe9f1798a869)
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/635713ee-9f31-4ad6-894f-a4841b0c5aac)
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/4f0f14be-0365-4e0a-a0fb-6c2091fa6ae7)
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/a1fde7ae-62bc-44e2-8297-2ce2b53c7b3b)
+
+![Untitled (1)](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/abda1605-fd3a-4208-a3e2-4ab8f13b2a5e)
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/52424839-20ac-469e-bfe6-4af3a1c443bc)

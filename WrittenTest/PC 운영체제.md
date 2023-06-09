@@ -151,3 +151,18 @@ Windows 10 보조 프로그램 및 유니버설 앱
 
 ![Untitled (1)](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/abda1605-fd3a-4208-a3e2-4ab8f13b2a5e)
 ![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/52424839-20ac-469e-bfe6-4af3a1c443bc)
+
+---
+
+# 6. 네트워크
+
+![Untitled (2)](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/72188956-313d-40a0-81b4-8ebd60a8f87f)
+SYN: 신호들 동기화 
+
+네트워크
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/d3c581a3-4ce6-4e75-a7b5-db8def850fb2)
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/0d70f60f-a676-4f9a-8c0d-e89362abb434)
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/3d263861-805d-484a-9ee3-a3a507eac742)
+

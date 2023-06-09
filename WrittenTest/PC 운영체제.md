@@ -131,3 +131,14 @@
     - 프린터 공유: 프린터 속성>’공유’탭에서 설정
 
 ---
+
+# 4. 보조 프로그램/유니버설 앱
+
+Windows 10 보조 프로그램 및 유니버설 앱
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/b8474f25-f60e-4355-8143-57ccd138e413)
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/e4e9a21f-4130-4054-803d-32d7137dfccb)
+
+![image](https://github.com/youjiyeon/Word-Processor-Specialist/assets/57094856/c987163c-4c46-4ccf-9c89-857bdf0c952a)
+
